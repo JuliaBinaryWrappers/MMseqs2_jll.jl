@@ -3,12 +3,11 @@ export mmseqs
 
 using Zlib_jll
 using Bzip2_jll
-using CompilerSupportLibraries_jll
 using LLVMOpenMP_jll
 JLLWrappers.@generate_wrapper_header("MMseqs2")
 JLLWrappers.@declare_executable_product(mmseqs)
 function __init__()
-    JLLWrappers.@generate_init_header(Zlib_jll, Bzip2_jll, CompilerSupportLibraries_jll, LLVMOpenMP_jll)
+    JLLWrappers.@generate_init_header(Zlib_jll, Bzip2_jll, LLVMOpenMP_jll)
     JLLWrappers.@init_executable_product(
         mmseqs,
         "bin/mmseqs",
