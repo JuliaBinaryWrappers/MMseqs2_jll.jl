@@ -1,212 +1,212 @@
 [[MMseqs2]]
 arch = "aarch64"
-git-tree-sha1 = "9e1952b0b07e9b1d60565020323df94b18ee751a"
+git-tree-sha1 = "38086d1c597d49ab659d8f987988b03e6f336ee3"
 os = "macos"
 
     [[MMseqs2.download]]
-    sha256 = "adcd08f447cbe86eb1062529877aaadd81d1cfbf800e4f15535cad0f71b2a9a9"
-    url = "https://github.com/JuliaBinaryWrappers/MMseqs2_jll.jl/releases/download/MMseqs2-v14.0.0+1/MMseqs2.v14.0.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "f5e335adcb199e9822668b0eb0c89ed07cc8715efa0782b84f078ed2be417a98"
+    url = "https://github.com/JuliaBinaryWrappers/MMseqs2_jll.jl/releases/download/MMseqs2-v15.0.0+0/MMseqs2.v15.0.0.aarch64-apple-darwin.tar.gz"
 [[MMseqs2]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "da9ff376310d1a190a427da84a0dec5dffe89048"
+git-tree-sha1 = "457e640eb4ea2fa4c4bd114c764c5126304bd099"
 libc = "glibc"
 os = "linux"
 
     [[MMseqs2.download]]
-    sha256 = "40cfc19b287bb79d4ac29621bc8da103d373c8a5502efc69478b2da2f2bb12f0"
-    url = "https://github.com/JuliaBinaryWrappers/MMseqs2_jll.jl/releases/download/MMseqs2-v14.0.0+1/MMseqs2.v14.0.0.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "ce6215bfd2573657cb1343d4eda759840965077a6822e0bd2bf40e649f3acfab"
+    url = "https://github.com/JuliaBinaryWrappers/MMseqs2_jll.jl/releases/download/MMseqs2-v15.0.0+0/MMseqs2.v15.0.0.aarch64-linux-gnu-cxx03.tar.gz"
 [[MMseqs2]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e7b2d620b8683ee02373828a7c7fd4725dafe76d"
+git-tree-sha1 = "7b9a24ed4512a7cd6700daa3ffacf2970ee258b8"
 libc = "glibc"
 os = "linux"
 
     [[MMseqs2.download]]
-    sha256 = "f47e797394be8c3de4ce0ce5473770c38a046abad3b07a98a3022546f673f8a5"
-    url = "https://github.com/JuliaBinaryWrappers/MMseqs2_jll.jl/releases/download/MMseqs2-v14.0.0+1/MMseqs2.v14.0.0.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "0be81335f0f4215affea0b6ddbcf1b85848a381e85ce6937026088a88fcbc203"
+    url = "https://github.com/JuliaBinaryWrappers/MMseqs2_jll.jl/releases/download/MMseqs2-v15.0.0+0/MMseqs2.v15.0.0.aarch64-linux-gnu-cxx11.tar.gz"
 [[MMseqs2]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "33930de768d93cd07e7109cdd933f4b1da6d8b5d"
+git-tree-sha1 = "1cd69a7ea9ffc2520de9785226fa319a260f8f10"
 libc = "musl"
 os = "linux"
 
     [[MMseqs2.download]]
-    sha256 = "d99d8f022b3b720366534f98b821c150799b2fa31a025c3ec1ffbb0d2988f36b"
-    url = "https://github.com/JuliaBinaryWrappers/MMseqs2_jll.jl/releases/download/MMseqs2-v14.0.0+1/MMseqs2.v14.0.0.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "e8fd5350637f80050636d292e5ee731b6b3394d4d1ee6f984adc3d231dd25de4"
+    url = "https://github.com/JuliaBinaryWrappers/MMseqs2_jll.jl/releases/download/MMseqs2-v15.0.0+0/MMseqs2.v15.0.0.aarch64-linux-musl-cxx03.tar.gz"
 [[MMseqs2]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e06280964be460853ebc362c1ae016f41c1e0452"
+git-tree-sha1 = "02cfadaaa2893f7737f6cf01a1c040b8202ae96a"
 libc = "musl"
 os = "linux"
 
     [[MMseqs2.download]]
-    sha256 = "5f321ee29c57939835c719778258b633599108cb388b88eba91aae08e8a1d630"
-    url = "https://github.com/JuliaBinaryWrappers/MMseqs2_jll.jl/releases/download/MMseqs2-v14.0.0+1/MMseqs2.v14.0.0.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "153507f7ac8869bb9d9dbc8ac7b3c9f26d79e10d76085c75b97db8ca6b41589e"
+    url = "https://github.com/JuliaBinaryWrappers/MMseqs2_jll.jl/releases/download/MMseqs2-v15.0.0+0/MMseqs2.v15.0.0.aarch64-linux-musl-cxx11.tar.gz"
 [[MMseqs2]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "391026050cb76e58e618c3eb61a123616134c1ab"
+git-tree-sha1 = "7d2854251479637614a518451b2005f96498f6e3"
 libc = "glibc"
 os = "linux"
 
     [[MMseqs2.download]]
-    sha256 = "293b6c9d58dd5fe4b1e362182b2184c27823e1b333843b81a753c1a77ad05753"
-    url = "https://github.com/JuliaBinaryWrappers/MMseqs2_jll.jl/releases/download/MMseqs2-v14.0.0+1/MMseqs2.v14.0.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "2e974779a86a40284eb93eaca1475332abb313881c44c39062746fb81b90c529"
+    url = "https://github.com/JuliaBinaryWrappers/MMseqs2_jll.jl/releases/download/MMseqs2-v15.0.0+0/MMseqs2.v15.0.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
 [[MMseqs2]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "cb81c6678ee78b3b425f4e87d184c991346f7f09"
+git-tree-sha1 = "743c148437000ca44b41b98caa66cc27f4136ac9"
 libc = "glibc"
 os = "linux"
 
     [[MMseqs2.download]]
-    sha256 = "fc6b868d71a2d40f24a12c74a9e9205a070eccc18462efea7513160b6ebfa3ff"
-    url = "https://github.com/JuliaBinaryWrappers/MMseqs2_jll.jl/releases/download/MMseqs2-v14.0.0+1/MMseqs2.v14.0.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "918e468536423e0768cd06c1cec94f96503983eef1c316ddf585412505c28fe1"
+    url = "https://github.com/JuliaBinaryWrappers/MMseqs2_jll.jl/releases/download/MMseqs2-v15.0.0+0/MMseqs2.v15.0.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[MMseqs2]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "65207402bb74d4f60e465a63f9aadbf42f68eac8"
+git-tree-sha1 = "03eb6dfb748fb3491f81e7e264e092bf20698d3c"
 libc = "musl"
 os = "linux"
 
     [[MMseqs2.download]]
-    sha256 = "2d310b47cd81f3d2a532ee28316461118e34baf8d0daafe1adda0df7ea557e52"
-    url = "https://github.com/JuliaBinaryWrappers/MMseqs2_jll.jl/releases/download/MMseqs2-v14.0.0+1/MMseqs2.v14.0.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "8ebef636df568a5f1f87c78fa8c0944daba275e50bd23eecb8c56be15c7178de"
+    url = "https://github.com/JuliaBinaryWrappers/MMseqs2_jll.jl/releases/download/MMseqs2-v15.0.0+0/MMseqs2.v15.0.0.armv6l-linux-musleabihf-cxx03.tar.gz"
 [[MMseqs2]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "950e0b16555b6dad5f1640c54f2f542fc7cf0963"
+git-tree-sha1 = "a9fbc8a5f3b2248e9c61900a46b1d16b1f966c6c"
 libc = "musl"
 os = "linux"
 
     [[MMseqs2.download]]
-    sha256 = "108df4fa99170087380980e9686408ffbc6bee9dbc72e06c303016437dd815c2"
-    url = "https://github.com/JuliaBinaryWrappers/MMseqs2_jll.jl/releases/download/MMseqs2-v14.0.0+1/MMseqs2.v14.0.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "40cbd5c574366ff25373356353280024d2fa17a745e8a18f566f8fa2ba11d9b5"
+    url = "https://github.com/JuliaBinaryWrappers/MMseqs2_jll.jl/releases/download/MMseqs2-v15.0.0+0/MMseqs2.v15.0.0.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[MMseqs2]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "0d2200a82b4c5cde54cc09838e8dd73dfc731de8"
+git-tree-sha1 = "865452f973819bdfbee5ee93714fa94a884450aa"
 libc = "glibc"
 os = "linux"
 
     [[MMseqs2.download]]
-    sha256 = "59bedc0fb2b8033fd434c18badae6fc1d5020e8644c08a23c76df71c3ca396fd"
-    url = "https://github.com/JuliaBinaryWrappers/MMseqs2_jll.jl/releases/download/MMseqs2-v14.0.0+1/MMseqs2.v14.0.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "6debbf4b6b3a5ddfb9d3dfb1bac0d319a3b3980246e13e28480f15cd3d8f76c2"
+    url = "https://github.com/JuliaBinaryWrappers/MMseqs2_jll.jl/releases/download/MMseqs2-v15.0.0+0/MMseqs2.v15.0.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[MMseqs2]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "65579267a190dd75f2cc8e2569103954d8429f97"
+git-tree-sha1 = "fce8932acb31cc2b258e5656f96c395552bbb893"
 libc = "glibc"
 os = "linux"
 
     [[MMseqs2.download]]
-    sha256 = "1afac8de1a4d6720a3b3293bf6e0b8bf13525db7c0917c1bf231ec9aa123d167"
-    url = "https://github.com/JuliaBinaryWrappers/MMseqs2_jll.jl/releases/download/MMseqs2-v14.0.0+1/MMseqs2.v14.0.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "03dc6c9270ff1db4d6a24288c3f036fe012f7991fa995045cd9ab71b54de485c"
+    url = "https://github.com/JuliaBinaryWrappers/MMseqs2_jll.jl/releases/download/MMseqs2-v15.0.0+0/MMseqs2.v15.0.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[MMseqs2]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "18488e283ab3ed2c9ec77b6108dac4b38827c144"
+git-tree-sha1 = "20d630427cbf801255c438fc8fd12355731140c1"
 libc = "musl"
 os = "linux"
 
     [[MMseqs2.download]]
-    sha256 = "3bf8c43a70b13491b036dd2803591b8a33c4237b379a958a94b2ac408f708955"
-    url = "https://github.com/JuliaBinaryWrappers/MMseqs2_jll.jl/releases/download/MMseqs2-v14.0.0+1/MMseqs2.v14.0.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "b39255ec55631b1e00bbea7084987249967472cd95097ac1b33cb38d52fe1e73"
+    url = "https://github.com/JuliaBinaryWrappers/MMseqs2_jll.jl/releases/download/MMseqs2-v15.0.0+0/MMseqs2.v15.0.0.armv7l-linux-musleabihf-cxx03.tar.gz"
 [[MMseqs2]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b90d93b80e5b46a2d509fa8d63c2b4840a00eeee"
+git-tree-sha1 = "bfd0628eaeef724114999e8ad6c9db38e5116c8a"
 libc = "musl"
 os = "linux"
 
     [[MMseqs2.download]]
-    sha256 = "9f40358d00805997f82b4ba265bc4dcabd2410301086153474d53290ed272d19"
-    url = "https://github.com/JuliaBinaryWrappers/MMseqs2_jll.jl/releases/download/MMseqs2-v14.0.0+1/MMseqs2.v14.0.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "5dc53e10d67e446c04112a9ff3a3ab665e7e704ae70cef414c84dacb65cede04"
+    url = "https://github.com/JuliaBinaryWrappers/MMseqs2_jll.jl/releases/download/MMseqs2-v15.0.0+0/MMseqs2.v15.0.0.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[MMseqs2]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ec42ce13ea63a08360f2aaad99b9ed40c612672d"
+git-tree-sha1 = "15583be5329578f7913a6d2cf3ec5be3306856c2"
 libc = "glibc"
 os = "linux"
 
     [[MMseqs2.download]]
-    sha256 = "77d802fcfcfaf6a6d4e5abbd080c65ae954e2e2afb4c5c8ed9a24868d8dcb1fb"
-    url = "https://github.com/JuliaBinaryWrappers/MMseqs2_jll.jl/releases/download/MMseqs2-v14.0.0+1/MMseqs2.v14.0.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "d5b175cf24366bfa5fc5bb67e38614c659fe8e3143b239974f3c1eea41821e6c"
+    url = "https://github.com/JuliaBinaryWrappers/MMseqs2_jll.jl/releases/download/MMseqs2-v15.0.0+0/MMseqs2.v15.0.0.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[MMseqs2]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "fc26b6aeac47ccbceba734e32c3bcb58d8916f2d"
+git-tree-sha1 = "c1d2702807a87316c240c80d9e4624eca19c147a"
 libc = "glibc"
 os = "linux"
 
     [[MMseqs2.download]]
-    sha256 = "423f9b7c6cfa2c55c5f407463f7821c5069931e4cd193ddc31f65d0ed555cba1"
-    url = "https://github.com/JuliaBinaryWrappers/MMseqs2_jll.jl/releases/download/MMseqs2-v14.0.0+1/MMseqs2.v14.0.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "efc7257d1c5e297b5686530eb0b4cc66ef496c5ffbc16812aa5f08ff380c6caf"
+    url = "https://github.com/JuliaBinaryWrappers/MMseqs2_jll.jl/releases/download/MMseqs2-v15.0.0+0/MMseqs2.v15.0.0.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[MMseqs2]]
 arch = "x86_64"
-git-tree-sha1 = "f6a6e0ab763abd83802b8e053b1a70068f0b96d4"
+git-tree-sha1 = "f5b5ad1c5017eaadab4e2c98de61c5ce1af78952"
 os = "macos"
 
     [[MMseqs2.download]]
-    sha256 = "632838a68e590a254303f90112daa3b698645acad4e5146f12dae54830190e7a"
-    url = "https://github.com/JuliaBinaryWrappers/MMseqs2_jll.jl/releases/download/MMseqs2-v14.0.0+1/MMseqs2.v14.0.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "b12eae74f350352c06cdab094f2f23433a769b7a89c8ce150c385ac03c326a4e"
+    url = "https://github.com/JuliaBinaryWrappers/MMseqs2_jll.jl/releases/download/MMseqs2-v15.0.0+0/MMseqs2.v15.0.0.x86_64-apple-darwin.tar.gz"
 [[MMseqs2]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9346a572c756d39b7c116de8b2491d3502004b09"
+git-tree-sha1 = "916968c14c6e9155ad5f8e53f8a90b272ee86ae7"
 libc = "glibc"
 os = "linux"
 
     [[MMseqs2.download]]
-    sha256 = "0c93949373fa1bd0c782df4ea6c349208806537b58871367194e3a2f16350611"
-    url = "https://github.com/JuliaBinaryWrappers/MMseqs2_jll.jl/releases/download/MMseqs2-v14.0.0+1/MMseqs2.v14.0.0.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "5b23242b600ae3ddd202a9b5351232e2f5d51d4720f61ed23b830a9d1f2be17d"
+    url = "https://github.com/JuliaBinaryWrappers/MMseqs2_jll.jl/releases/download/MMseqs2-v15.0.0+0/MMseqs2.v15.0.0.x86_64-linux-gnu-cxx03.tar.gz"
 [[MMseqs2]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "fbf41d9c8be52e3ecc5023aeee9c926a21481d91"
+git-tree-sha1 = "88180795328691b89ed93e0e3c3de56307640108"
 libc = "glibc"
 os = "linux"
 
     [[MMseqs2.download]]
-    sha256 = "d389ef0fc787f27033313092378ac849fbba5c6db59e1c735cc08bc25c024221"
-    url = "https://github.com/JuliaBinaryWrappers/MMseqs2_jll.jl/releases/download/MMseqs2-v14.0.0+1/MMseqs2.v14.0.0.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "fe34dfad3670ee9ee9a2c28c13fa43ca8db980cb255824eec462f3480368a280"
+    url = "https://github.com/JuliaBinaryWrappers/MMseqs2_jll.jl/releases/download/MMseqs2-v15.0.0+0/MMseqs2.v15.0.0.x86_64-linux-gnu-cxx11.tar.gz"
 [[MMseqs2]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6298d36086775db5d05e3c5c912b8f2333ef2c11"
+git-tree-sha1 = "8de39a97d77fbd82c6ae8cc1d494ada8a4a60d6b"
 libc = "musl"
 os = "linux"
 
     [[MMseqs2.download]]
-    sha256 = "dc70831f433ab46eec944440c65fca42f23c2813f2ec459250d9b3058a23cf18"
-    url = "https://github.com/JuliaBinaryWrappers/MMseqs2_jll.jl/releases/download/MMseqs2-v14.0.0+1/MMseqs2.v14.0.0.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "652a9f7bb893f0969121310b64441978a5d5fd7649f30070565270b1fc3a8ac2"
+    url = "https://github.com/JuliaBinaryWrappers/MMseqs2_jll.jl/releases/download/MMseqs2-v15.0.0+0/MMseqs2.v15.0.0.x86_64-linux-musl-cxx03.tar.gz"
 [[MMseqs2]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "feb2e1095e181a18a58eeebbbf70865c7009cb2b"
+git-tree-sha1 = "ef06dc7103c9bf9cdb9a961a3cae8cefdc4e2ef1"
 libc = "musl"
 os = "linux"
 
     [[MMseqs2.download]]
-    sha256 = "1d979ceb6477f68fca7986b4df8a28929f5fc5cbf711b52db22438333dbf35d7"
-    url = "https://github.com/JuliaBinaryWrappers/MMseqs2_jll.jl/releases/download/MMseqs2-v14.0.0+1/MMseqs2.v14.0.0.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "9eb0b5c1f5bcc152063cd06d7493d826bb49aeaf97031569fd17f1c33f1e9a63"
+    url = "https://github.com/JuliaBinaryWrappers/MMseqs2_jll.jl/releases/download/MMseqs2-v15.0.0+0/MMseqs2.v15.0.0.x86_64-linux-musl-cxx11.tar.gz"
 [[MMseqs2]]
 arch = "x86_64"
-git-tree-sha1 = "ea4131f00eb959f55fd82f2b54d57de47f34df5e"
+git-tree-sha1 = "0bc6c662edc953f94ca81b14d8a56c59c8b7d324"
 os = "freebsd"
 
     [[MMseqs2.download]]
-    sha256 = "cc17c91c74e9f98a572554102f27ac4681a284e04da7978ea323cb9dbb72c63c"
-    url = "https://github.com/JuliaBinaryWrappers/MMseqs2_jll.jl/releases/download/MMseqs2-v14.0.0+1/MMseqs2.v14.0.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "501a527651f685f98800149433a1f273248125222bfab688e64f1e55636b56db"
+    url = "https://github.com/JuliaBinaryWrappers/MMseqs2_jll.jl/releases/download/MMseqs2-v15.0.0+0/MMseqs2.v15.0.0.x86_64-unknown-freebsd.tar.gz"
